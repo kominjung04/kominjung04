@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />
 
 
-##Studying
+## Studying
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kominjung04&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kominjung04&layout=compact)
 
