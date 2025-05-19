@@ -1,5 +1,9 @@
 ## 프론트엔드와 보안쪽에 관심을 가지고 있는 대학생입니다.
+
+## Tech Stack
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Ｃ＋＋-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 
 <!--
 **kominjung04/kominjung04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
