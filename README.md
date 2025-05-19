@@ -1,10 +1,10 @@
 ## 프론트엔드와 보안쪽에 관심을 가지고 있는 대학생입니다.
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />
-<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
-<img src="https://img.shields.io/badge/css-20232a.svg?style=for-the-badge&logo=css&logoColor=#663399" />
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+<img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />&nbsp
+<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />&nbsp
+<img src="https://img.shields.io/badge/css-20232a.svg?style=for-the-badge&logo=css&logoColor=#663399" />&nbsp
 <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />
 
 
