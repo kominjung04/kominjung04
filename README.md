@@ -1,5 +1,9 @@
 ## 프론트엔드와 보안쪽에 관심을 가지고 있는 대학생입니다.
 
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/c++-#00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/java-#F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/css-#663399.svg?style=for-the-badge&logo=css&logoColor=61DAFB" />
 
 
 
