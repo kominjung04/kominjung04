@@ -12,6 +12,8 @@
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kominjung04&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kominjung04&layout=compact)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj04)](https://solved.ac/kmj04)
+
 
 <!--
 **kominjung04/kominjung04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
