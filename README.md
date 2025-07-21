@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=minjung's Github&fontSize=90" />
 
 ## 프론트엔드와 보안쪽에 관심을 가지고 있는 대학생입니다.
 
