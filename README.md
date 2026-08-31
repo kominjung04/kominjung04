@@ -6,7 +6,13 @@
 <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />&nbsp
 <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />&nbsp
 <img src="https://img.shields.io/badge/css-20232a.svg?style=for-the-badge&logo=css&logoColor=#663399" />&nbsp
-<img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />
+<img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />&nbsp
+<img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#3776AB" />&nbsp
+<img src="https://img.shields.io/badge/oracle-20232a.svg?style=for-the-badge&logo=oracle&logoColor=#3776AB" />&nbsp
+<img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#3776AB" />&nbsp
+<img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=#3776AB" />&nbsp
+<img src="https://img.shields.io/badge/mongodb-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=#3776AB" />&nbsp
+
 </div>
 
 ## 🛠 Tools 🛠
@@ -14,6 +20,8 @@
 <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=#181717" />&nbsp
 <img src="https://img.shields.io/badge/vscode-20232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=#F24E1E" />&nbsp
 <img src="https://img.shields.io/badge/figma-20232a.svg?style=for-the-badge&logo=figma&logoColor=#F24E1E" />&nbsp
+<img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#F24E1E" />&nbsp
+
 </div>
 
 
