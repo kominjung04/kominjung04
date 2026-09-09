@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=minjung's%20Github&fontSize=60&fontColor=ffffff&animation=fadeIn" /> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=minjung's%20Github&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
 <div align="center"> 
-  🔭 Backend-leaning developer studying Java & Spring<br><br> 
-  🌱 Currently building team projects and growing my portfolio<br><br> 
-  📫 Reach me via GitHub Issues or [your email/link here] </div> <br>
+  🔭 Java와 Spring, React을 공부하며 풀스택 쪽으로 성장 중인 개발자입니다 <br><br> 
+  🌱 팀 프로젝트를 진행하며 포트폴리오를 채워가는 중입니다 <br><br> 
+  📫 GitHub Issues 또는 [chunguharu@gmail.com/링크 추가예정]로 연락 주세요 </div> <br>
   
 ## ⌨️Tech Stack🖱️
 <div align="center"> 
