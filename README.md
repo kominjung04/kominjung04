@@ -43,6 +43,8 @@
 
 ## ✨Stats✨
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kominjung04&theme=dark&hide_border=true" height="165"/> <br><br> <a href="https://solved.ac/kmj04"> 
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj04" alt="[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj04)](https://solved.ac/kmj04)"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kominjung04&theme=dark&hide_border=true" height="165"/> <br><br> 
+  <a href="https://solved.ac/kmj04">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj04" alt="Solved.ac 프로필"/>
+</a>
   </a> </div>
