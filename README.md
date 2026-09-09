@@ -5,7 +5,7 @@
   🌱 Currently building team projects and growing my portfolio<br><br> 
   📫 Reach me via GitHub Issues or [your email/link here] </div> <br>
   
-## 🖱️Tech Stack⌨️
+## ⌨️Tech Stack🖱️
 <div align="center"> 
   <img src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp 
   <img src="https://img.shields.io/badge/c%2B%2B-20232A.svg?style=for-the-badge&logo=cplusplus&logoColor=%2300599C" />&nbsp 
@@ -30,18 +30,19 @@
   <img src="https://img.shields.io/badge/claude-20232A.svg?style=for-the-badge&logo=claude&logoColor=%23D97757" /> 
 </div> <br>
 
-Projects
+## 📄 Projects 
 <div align="center">
 
-[DOGO] — 한 줄 소개 (사용 기술) 🔗 [Repo](https://github.com/mahoora0/dogo)  |  📄 설명
+[DOGO] — 분실자와 습득자를 매칭해주는 유실물 통합 관리 플랫폼 (Spring Boot · Spring Security · WebSocket/STOMP · MySQL )<br>
+🔗 [Repo](https://github.com/mahoora0/dogo)  |  📄 주요기능: 유실물 검색, 실시간 채팅, ai 자동 매칭
 
-[POPQ] — 한 줄 소개 (사용 기술) 🔗 [Repo](https://github.com/choffice/project__popq)  |  📄 설명
+[POPQ] — 키오스크 없이 연결하는 QR 주문·결제·매장 운영 통합 플랫폼 (Spring Boot · React · Flutter · Firebase · WebSocket/STOMP)<br>
+🔗 [Repo](https://github.com/choffice/project__popq)  |  📄 주요기능: QR 비회원 주문, 실시간 주문 상태 추적(STOMP)
 
 </div> <br>
 
 ## ✨Stats✨
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=kominjung04&show_icons=true&theme=dark&hide_border=true" height="165"/> <br><br> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kominjung04&theme=dark&hide_border=true" height="165"/> <br><br> <a href="https://solved.ac/kmj04"> 
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj04" alt="[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj04)](https://solved.ac/kmj04)"/> 
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj04" alt="[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj04)](https://solved.ac/kmj04)"/> 
   </a> </div>
